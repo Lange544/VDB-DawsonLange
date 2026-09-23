@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="MyProject(WatchNext">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items />
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="DatabaseScript.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>DatabaseScript.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items>
+        <FileNode Name="ActorTableScreenshot.jpg">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>ActorTableScreenshot.jpg</FullPath>
+        </FileNode>
+        <FileNode Name="DirectorsTableScreenshot.jpg">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>DirectorsTableScreenshot.jpg</FullPath>
+        </FileNode>
+        <FileNode Name="EntityWorkSheet.txt">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>EntityWorkSheet.txt</FullPath>
+        </FileNode>
+        <FileNode Name="GenreTableScreenShot.jpg">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>GenreTableScreenShot.jpg</FullPath>
+        </FileNode>
+        <FileNode Name="MovieTableScreenshot.jpg">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>MovieTableScreenshot.jpg</FullPath>
+        </FileNode>
+        <FileNode Name="ReviewsTableScreenshot.jpg">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>ReviewsTableScreenshot.jpg</FullPath>
+        </FileNode>
+        <FileNode Name="ReviewsTableScreenshot.png">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>ReviewsTableScreenshot.png</FullPath>
+        </FileNode>
+        <FileNode Name="UserLibraryScreenshot.jpg">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>UserLibraryScreenshot.jpg</FullPath>
+        </FileNode>
+        <FileNode Name="UsersTableScreenshot.jpg">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>UsersTableScreenshot.jpg</FullPath>
+        </FileNode>
+        <FileNode Name="UserStories.txt">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>UserStories.txt</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>

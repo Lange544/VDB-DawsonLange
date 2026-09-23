@@ -1,0 +1,12 @@
+(As a <user type> I want to <some goal> so that <some reason>)
+
+As a movie watcher, I want to add movies to my personal library list so that I can keep track of all the movies I plan to watch
+
+As a movie watcher, I want to be able to toggle a movie's status as seen or unseen, so that I can track my movie history
+
+As a movie watcher, I want to be able to sort movies by genre so that I can pick a movie based on it's genre
+
+As a movie watcher, I want to be able to view movies based on actor/actress or director so that I can find more movies made by those people.
+
+As a movie watcher, I want to be able to leave a review on a movie so that other users can see my opinion of that movie
+

@@ -1,0 +1,13 @@
+Less than 10 
+
+User(User_ID, User_Name, Email, Date_Created)
+
+UserLibrary(Libary_ID, User_ID, Movie_ID, Status, Date_Added)
+
+Reviews(Review_ID, User_ID, Movie_ID, Review_Text, Rating_Stars)
+
+Movie(Movie_ID, Title, Release_Year, Movie_Length, Director_ID, Genre_ID)
+
+Genre(Genre_ID, Genre_Name)
+
+Directors(Director_ID, First_Name, Last_Name)
